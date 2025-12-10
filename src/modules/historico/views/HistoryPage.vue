@@ -38,9 +38,9 @@
         </div>
 
         <!-- Grid Layout com altura fixa -->
-        <div class="grid grid-cols-1 lg:grid-cols-2 gap-6 h-[calc(100vh-200px)]">
+        <div class="grid grid-cols-1 lg:grid-cols-2 gap-6 h-[calc(100vh-20px)]">
           <!-- Sessions List -->
-          <div class="flex flex-col">
+          <div class="flex flex-col overflow-y-auto h-full">
             <SessionsList
               :sessions="sessions"
               :selected-session-id="selectedSessionId"
@@ -51,7 +51,7 @@
           </div>
 
           <!-- Chat Viewer -->
-          <div class="flex flex-col">
+          <div class="flex flex-col overflow-y-auto h-full">
             <ChatViewer
               :session="selectedSession"
               :is-loading="isLoadingSession"
