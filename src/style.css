@@ -1,0 +1,14 @@
+@import '@/common/assets/fonts/Inter/Inter.css';
+@import '@/common/assets/fonts/MaterialSymbols/MaterialSymbols.css';
+@import 'tailwindcss';
+@import "../node_modules/@leds-ifes/components/src/style.css";
+
+@theme {
+  --font-sans: 'Inter', sans-serif;
+}
+
+@utility sidebar-height {
+  min-height: calc(100vh - 72px); /* 72px é a altura da barra de navegação */
+}
+
+@source "../node_modules/@leds-ifes/components/*/.vue";

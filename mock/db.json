@@ -1,0 +1,138 @@
+{
+  "projetos": [
+    {
+      "nome": "ConectaFapes: Uma plataforma de apoio à Pesquisa, Desenvolvimento e Inovação",
+      "titulo": "ConectaFapes: Uma plataforma de apoio à Pesquisa, Desenvolvimento e Inovação",
+      "enviadoEm": "26/10/2023",
+      "clicavel": true,
+      "text": "EM ANDAMENTO",
+      "variant": "outlineSuccess"
+    },
+    {
+      "nome": "Painel do Empreendedor Capixaba",
+      "titulo": "Painel do Empreendedor Capixaba",
+      "enviadoEm": "26/10/2023",
+      "clicavel": false,
+      "text": "FINALIZADO",
+      "variant": "secondaryDanger"
+
+    },
+    {
+      "nome": "SMART HUB",
+      "titulo": "Projeto SmartHub: Lorem ipsum dolor sit amet consectetur malesuada aliquet enim erat viverra mattis quis habitant leo. Neque auctor et nisi maecenas turpis venenatis.",
+      "enviadoEm": "26/10/2023",
+      "clicavel": false,
+      "text": "FINALIZADO",
+      "variant": "secondaryDanger"
+    },
+    {
+      "nome": "HUB ES+",
+      "titulo": "HUB ES+",
+      "enviadoEm": "26/10/2023",
+      "clicavel": false,
+      "text": "FINALIZADO",
+      "variant": "secondaryDanger"
+    },
+    {
+      "nome": "HUB ES+ — Economia Criativa",
+      "titulo": "HUB ES+ — Economia Criativa",
+      "enviadoEm": "26/10/2023",
+      "clicavel": false,
+      "text": "FINALIZADO",
+      "variant": "secondaryDanger"
+    },
+    {
+      "nome": "Sistema de gestão PROEX",
+      "titulo": "Sistema de gestão PROEX",
+      "enviadoEm": "26/10/2023",
+      "clicavel": false,
+      "text": "FINALIZADO",
+      "variant": "secondaryDanger"
+    },
+    {
+      "nome": "OpenStreetMap Redesign",
+      "titulo": "OpenStreetMap Redesign",
+      "status": "FINALIZADO",
+      "enviadoEm": "26/10/2023",
+      "clicavel": false,
+      "text": "FINALIZADO",
+      "variant": "secondaryDanger"
+    }
+  ],
+  "informeProjetos": [
+    {
+      "projeto": {
+        "nome": "ConectaFapes: Uma plataforma de apoio à Pesquisa, Desenvolvimento e Inovação",
+        "titulo": "ConectaFapes: Uma plataforma de apoio à Pesquisa, Desenvolvimento e Inovação",
+        "enviadoEm": "26/10/2023",
+        "clicavel": true,
+        "text": "EM ANDAMENTO",
+        "variant": "outlineSuccess"
+      },
+      "itens": [
+        {
+          "quantidade": 2,
+          "mensagem": "solicitações de bolsa foram",
+          "status": "reprovada"
+        },
+        {
+          "quantidade": 2,
+          "mensagem": "solicitações de bolsa estão",
+          "status": "sob avaliação"
+        },
+        {
+          "quantidade": 2,
+          "mensagem": "bolsas estão próximas do",
+          "status": "fim da vigência"
+        }
+      ],
+      "tipo": "aviso"
+    },
+    {
+      "projeto": {
+        "nome": "AgentES",
+        "titulo": "Projeto AgentES — Uma Inteligência Artificial do balacobaco",
+        "enviadoEm": "26/10/2023",
+        "clicavel": false,
+        "text": "FINALIZADO",
+        "variant": "secondaryDanger"
+      },
+      "itens": [
+        {
+          "quantidade": 1,
+          "mensagem": "solicitação de bolsa foi",
+          "status": "reprovada"
+        }
+      ],
+      "tipo": "aviso"
+    },
+    {
+      "projeto": {
+        "nome": "SMART HUB",
+        "titulo": "Projeto SmartHub: Lorem ipsum dolor sit amet consectetur malesuada aliquet enim erat viverra mattis quis habitant leo. Neque auctor et nisi maecenas turpis venenatis.",
+        "enviadoEm": "26/10/2023",
+        "clicavel": false,
+        "text": "FINALIZADO",
+        "variant": "secondaryDanger"
+      },
+      "itens": [
+        "O prazo para prestação de contas (20/04/2025) se encerra em 11 dias."
+      ],
+      "tipo": "normal"
+    }
+  ],
+  "proximosPrazos": [
+    {
+      "data": "20/04",
+      "mensagem": "prazo final para prestação de contas."
+    },
+    {
+      "data": "25/04",
+      "mensagem": "vigência de bolsista João termina no Projeto Conecta Fapes: Uma plataforma de apoio à Pesquisa, Desenvolvimento e Inovação."
+    },
+    {
+      "data": "05/05",
+      "mensagem": "prazo final solicitação de bolsas com início de vigência em maio."
+    }
+  ]
+}
